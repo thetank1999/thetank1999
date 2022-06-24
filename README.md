@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thetank1999
-- 👀 I’m interested in Programming and Languages
-- 🌱 I’m currently learning JS at FPT University, HCM Campus.
+- 👋 Hi, I’m Thanh N.Van
+- 👀 I’m interested in Programming, Languages and History
+- 🌱 I’m currently learning SE - DotNET at FPT University, HCM Campus.
 - 💞️ I’m looking to collaborate on our common interests.
 - 📫 How to reach me fb.com/AlphaaaaaaXD
 
